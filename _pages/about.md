@@ -7,8 +7,7 @@ comments: false
 <img width="693" alt="stanto" src="https://github.com/awaseul/awaseul.github.io/assets/156042172/4ac7bdc5-1d61-4ba9-a7da-c6fadaadb9d0">
 
 
-<i class="fa-brands fa-medium"></i>
-
+<i class="fa-brands fa-linkedin"></i>
 links: # 사이트 링크
      - label: "Email"
        icon: "fas fa-fw fa-envelope-square"
