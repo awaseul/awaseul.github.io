@@ -2628,10 +2628,10 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](assets/images/posts_img/readme/output_32_0.png)
     
 
 
 #### 결론
-사기거래의 경우 amount 분포가 정상 거래보다 넓게 퍼져 있는 형태가 나타나고 있음. 
-amount 양이 0.3*10^6 보다 크다면 Fraud 의심해 볼 수 있음
+사기거래의 경우 amount 분포가 정상 거래보다 넓게 퍼져 있는 형태가 나타나고 있으므로, 
+amount 양이 0.3*10^6 보다 크다면 Fraud 가능성이 비교적 높은 편이라고 볼 수 있음
