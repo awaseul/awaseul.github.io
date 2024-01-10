@@ -1321,49 +1321,49 @@ for v, i in  enumerate(df.columns[1:9]) :
 
 
     
-![png](output_17_0.png)
+![output_17_0](https://github.com/awaseul/awaseul.github.io/assets/156042172/0646a412-d615-4141-913c-844eaa8eae54)
     
 
 
 
     
-![png](output_17_1.png)
+![output_17_1](https://github.com/awaseul/awaseul.github.io/assets/156042172/91dbb6ff-acd5-49dc-9664-fd30b6324b0b)
     
 
 
 
     
-![png](output_17_2.png)
+![output_17_2](https://github.com/awaseul/awaseul.github.io/assets/156042172/f20ab288-2363-49ea-a247-71292b4a0111)
     
 
 
 
     
-![png](output_17_3.png)
+![output_17_3](https://github.com/awaseul/awaseul.github.io/assets/156042172/d60d7ab0-b423-420a-be52-e6f24e382cc2)
     
 
 
 
     
-![png](output_17_4.png)
+![output_17_4](https://github.com/awaseul/awaseul.github.io/assets/156042172/75acdeb2-3e4e-4f6d-b0d3-c6ca94a38ef4)
     
 
 
 
     
-![png](output_17_5.png)
+![output_17_5](https://github.com/awaseul/awaseul.github.io/assets/156042172/e1e4ecbb-128f-4cf1-9e20-dc9d7cdda2aa)
     
 
 
 
     
-![png](output_17_6.png)
+![output_17_6](https://github.com/awaseul/awaseul.github.io/assets/156042172/afeeab2f-3bde-41d3-bc59-a06339c095a5)
     
 
 
 
     
-![png](output_17_7.png)
+![output_17_7](https://github.com/awaseul/awaseul.github.io/assets/156042172/4665a2d7-4699-4c13-a46c-96b807aefa35)
     
 
 
@@ -1398,6 +1398,6 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://github.com/awaseul/awaseul.github.io/assets/156042172/b72e2e98-c931-4372-aa59-53254bf6b9d7)
     
 
