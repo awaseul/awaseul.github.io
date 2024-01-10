@@ -1,5 +1,20 @@
-<a href="https://colab.research.google.com/github/awayeseullee/awayeseullee/blob/main/%EC%A0%9C%EC%A1%B0_%EA%B8%88%EC%9C%B5_%EA%B2%8C%EC%9E%84_%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EC%8B%9C%EA%B0%81%ED%99%94_EDA_practice.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+---
+title: "[금융] 사기거래 데이터 분석_EDA"
+excerpt: "결제유형 및 금액별 사기거래 분포 비교"
 
+categories:
+  - Python
+tags:
+  - [tag1, tag2]
+
+permalink: /python/finance_EDA/
+
+toc: true
+toc_sticky: true
+
+date: 2024-01-08
+last_modified_at: 2024-01-08
+---
 ## **🔒 [금융] Practice**
 ---
 * **제시된 금융 데이터(Non Time-Series)를 대상으로 아래 주어진 문제를 분석 및 시각화 하시오**
