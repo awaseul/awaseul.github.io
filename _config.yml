@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name: "이예슬 (Yeseul Lee)" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  avatar: "/assets/images/mee_profile.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   location         : "Seoul, Korea"
   email            : "seuri.ratcha@gmail.com"
