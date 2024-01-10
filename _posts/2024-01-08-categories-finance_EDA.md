@@ -2628,7 +2628,7 @@ plt.show()
 
 
     
-![image](assets/images/posts_img/readme/output_32_0.png)
+![output_32_0](https://github.com/awaseul/awaseul.github.io/assets/156042172/86ab38f1-ca7b-47ac-9ddf-cb92dcab960f)
     
 
 
