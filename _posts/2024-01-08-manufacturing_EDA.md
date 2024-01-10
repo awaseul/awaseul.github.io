@@ -1,8 +1,23 @@
-<a href="https://colab.research.google.com/github/awayeseullee/awayeseullee/blob/main/%EC%A0%9C%EC%A1%B0_%EA%B8%88%EC%9C%B5_%EA%B2%8C%EC%9E%84_%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%B6%84%EC%84%9D_%EB%B0%8F_%EC%8B%9C%EA%B0%81%ED%99%94_EDA_practice.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+---
+title: "[제조] 이상치(anomaly) 데이터 탐색 및 시각화_EDA"
+excerpt: "시계열 센서 데이터를 통해 이상치 데이터 분석 및 시각화"
+
+categories:
+  - Python
+tags:
+  - [tag1, tag2]
+
+permalink: /python/manufacturing_EDA/
+
+toc: true
+toc_sticky: true
+
+date: 2024-01-08
+last_modified_at: 2024-01-08
+---
 
 
-
-## **🔒 [제조] Practice**
+## ** [제조] Practice**
 ---
 * **제조 데이터(Time Series, 시계열)를 대상으로 분석 및 시각화 하기**
 
