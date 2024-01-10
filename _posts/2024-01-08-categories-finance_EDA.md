@@ -2628,7 +2628,7 @@ plt.show()
 
 
     
-![png](assets/images/posts_img/readme/output_32_0.png)
+![image](assets/images/posts_img/readme/output_32_0.png)
     
 
 
