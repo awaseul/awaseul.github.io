@@ -24,4 +24,4 @@ last_modified_at: 2022-07-24
 
 
 
-![mee_profile](/Users/yeseul/Documents/GitHub/awaseul.github.io/_posts/mee_profile.png)
+<img src="/Users/yeseul/Documents/GitHub/awaseul.github.io/assets/images/posts_img/readme/이력서_시현하다.jpg" alt="이력서_시현하다" style="zoom:25%;" />
