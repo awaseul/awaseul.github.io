@@ -19,3 +19,5 @@ last_modified_at: 2022-07-24
 ## 🦥 본문
 
 본문은 여기에 ...
+
+![stanto](/Users/yeseul/Documents/GitHub/awaseul.github.io/images/2022-07-24-categories-post-name-here-2/stanto.png)
