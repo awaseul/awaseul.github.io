@@ -1,4 +1,23 @@
-# 1. Data Preprocessing & Exploratory Data Analysis
+---
+title: "[커머스] 온라인몰 고객 & 거래 데이터 탐색 및 시각화_EDA"
+excerpt: "온라인몰 Data Preprocessing & Exploratory Data Analysis"
+
+categories:
+  - Python
+tags:
+  - [tag1, tag2]
+
+permalink: /python/commerce_EDA/
+
+toc: true
+toc_sticky: true
+
+date: 2024-01-15
+last_modified_at: 2024-01-15
+---
+
+
+# Data Preprocessing & Exploratory Data Analysis
 
 ## 2014년 시점을 기준으로 5세 단위로 연령 구간을 나누고 각 성별(Gender), 연령 구간별로 고객 수를 Python 코드를 이용해 집계해주세요. (단, 고객의 성별, 연령 정보를 구할 수 없을 경우 해당 데이터는 집계에서 제외해 주세요.)
 
